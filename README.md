@@ -1,0 +1,1 @@
+Este trabalho final foi feito em conjunto entre duas materias, programacao e banco de dados, trata-se de um sistema que controla um banco de dados de uma mecanica, utilizando os codigos em java e atualizando os dados diretamente no banco de dados em SQL
